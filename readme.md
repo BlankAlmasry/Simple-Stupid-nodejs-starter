@@ -7,3 +7,4 @@ comes with pseudocode for crud app
 ### TODO
 
 - [ ] Switch to Typeorm, mongoose is garbage
+- [ ] remove nodemon
